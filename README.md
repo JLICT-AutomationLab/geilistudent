@@ -2,3 +2,7 @@
 
 📂我们会在此上传 单片机stc15， esp32，和ros比赛等相关的资料。<br>
 📧我们的微信公众号：给力学习,欢迎关注！
+<br>
+<br>
+<br>
+实验室GitHub负责人：[烟波](github.com/yanboishere)
