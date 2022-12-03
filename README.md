@@ -4,4 +4,4 @@
 <br>
 <br>
 <br>
-### 实验室GitHub负责人：[烟波](http://www.github.com/yanboishere)
+实验室GitHub负责人：[烟波](http://www.github.com/yanboishere)
